@@ -147,27 +147,27 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Abhishek brought creativity and technical expertise to the cub, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Frontend Developer",
-    date: "January 2023 - Present",
+    date: "January 2024 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
+      "Developed and maintained user-facing features for the ACC cub website.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
       "Optimized web applications for maximum speed and scalability.",
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Abhishek’s contributions to university basketball cub 's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    title: "Web Developer",
+    date: "June 2024",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Led the development of  web applications.",
+      "Worked with backend and frontend.",
+      "Contributed to open-source projects that were used with the .",
     ],
   },
   {
@@ -201,64 +201,55 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "Chandrashaker" ,
+
+    mentions: "@csdixit",
     review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+      "I can’t say enough good things about Abhishek. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
     imgPath: "/images/client1.png",
+    sideImg: "/images/canda.png",
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
+    name: "nikhal Shah " ,
+    
+    mentions: "@shahnk",
     review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
-  },
-  {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
-    review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Abhishek did a great job building my app. He completed it on time, understood my needs well, and made the app easy to use for my customers. Really happy with his work",
     imgPath: "/images/client2.png",
+      sideImg: "/images/canda.png",
   },
   {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
+    name: "Dr Manish Khule",
+     sideImg: "/images/indiaflag.png",
+    mentions: "@Manishkhule",
     review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
+      "I had assigned a project task to Abhishek, and he completed it successfully within the given time. He showed great dedication, understood the requirements clearly, and delivered quality work. His ability to handle tasks responsibly and on time is commendable.",
+    imgPath: "/images/client3.png",
+    
   },
-  {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
-    review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4.png",
-  },
-  {
-    name: "Albert Flores",
-    mentions: "@albertflores",
-    review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-    imgPath: "/images/client6.png",
-  },
+  
+  
 ];
 
 const socialImgs = [
   {
     name: "insta",
+    href: "abhishek__0811",
     imgPath: "/images/insta.png",
   },
   {
-    name: "fb",
-    imgPath: "/images/fb.png",
+    name: "Github",
+    href:"https://github.com/Xabhi0811",
+    imgPath: "/images/github.png.png",
   },
   {
     name: "x",
+     href:"https://x.com/chabhichauhan",
     imgPath: "/images/x.png",
   },
   {
     name: "linkedin",
+    href:"https://www.linkedin.com/in/abhishek-singh-chauhan-6a080627a/",
     imgPath: "/images/linkedin.png",
   },
 ];
