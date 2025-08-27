@@ -14,8 +14,11 @@ const Footer = () => {
         href={socialImg.href} 
         target="_blank" 
         rel="noopener noreferrer"
-      ></a>
-              <img  src={socialImg.imgPath} alt="social icon" />
+        
+      >
+        <img  src={socialImg.imgPath} alt="social icon" />
+      </a>
+              
             </div>
           ))}
         </div>
