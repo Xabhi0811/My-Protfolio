@@ -3,10 +3,7 @@ const navLinks = [
     name: "Work",
     link: "#work",
   },
-  {
-    name: "Experience",
-    link: "#experience",
-  },
+ 
   {
     name: "Skills",
     link: "#skills",
@@ -14,6 +11,10 @@ const navLinks = [
   {
     name: "Testimonials",
     link: "#testimonials",
+  },
+   {
+    name: "Resume",
+    link: "#AnimatedCounter",
   },
 ];
 
@@ -37,7 +38,7 @@ const counterItems = [
 
 const logoIconsList = [
   {
-    imgPath: "/images/logos/company-logo-1.png",
+    imgPath: "/images/logos/c++.png",
   },
   {
     imgPath: "/images/logos/company-logo-2.png",
